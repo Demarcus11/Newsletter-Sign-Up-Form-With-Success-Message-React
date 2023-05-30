@@ -1,4 +1,4 @@
-import { ListIcon } from "../../public/assets/images/icon-list.svg";
+import ListIcon from "../../public/assets/images/icon-list.svg";
 
 export function ThankYouModal({ email, setShowThankYouModal }) {
   return (
